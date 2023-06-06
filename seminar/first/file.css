@@ -1,0 +1,19 @@
+p,ul {
+	color: red;
+}
+teg1{
+	background-color: #ff0fd5;
+}
+body {
+	background-color: #f7d297;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	text-shadow: 3px 3px 3px brown;
+}
+
+h2{
+	color: blue;
+}
