@@ -1,0 +1,21 @@
+style {
+    
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    color: darkblue;
+    text-shadow: 3px 3px 3px cornflowerblue;
+    text-align: center;
+}
+h3, h2 {
+    color: cadetblue;
+    text-shadow: 1px 1px 1px rgb(3, 50, 136);
+}
+p, ul, ol {
+    color: darkgreen;
+}
